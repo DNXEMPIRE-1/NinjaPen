@@ -1,0 +1,8 @@
+.top-pane {
+  background-color: var(--background-color);
+}
+
+.pane {
+  height: 50vh;
+  display: flex;
+}
