@@ -25,5 +25,5 @@ NinjaPen is my own version of CodePen, built for coders who want a straightforwa
 
 ## 🎬 Video
 
-https://github.com/mirayatech/NinjaPen/assets/71933266/bcad854b-e694-4a34-8003-c3ed5e67287e
+https://github.com/DNXEMPIRE-1/NinjaPen/assets/71933266/bcad854b-e694-4a34-8003-c3ed5e67287e
 
